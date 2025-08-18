@@ -53,7 +53,7 @@ module.exports = {
     : ["94717775628", "94758775628"],
   PORT: process.env.PORT || "3000",
   SESSION_DIR: process.env.SESSION_DIR || "sess",
-  TOKEN: "github auth token",
+  TOKEN: "sJQ28qmESxJfCNg7K4jv1oI8kn6gGt4deczk",
   USERNAME: "CYBER-KING555",
   REPO_NAME: "queen-x-pro-2",
 };
