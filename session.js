@@ -53,7 +53,7 @@ module.exports = {
     : ["94717775628", "94758775628"],
   PORT: process.env.PORT || "3000",
   SESSION_DIR: process.env.SESSION_DIR || "sess",
-  TOKEN: "sJQ28qmESxJfCNg7K4jv1oI8kn6gGt4deczk",
+  TOKEN: "8wF5YNIg7cVvbL3EtXGzMpnt2keHol4RYIZx",
   USERNAME: "CYBER-KING555",
-  REPO_NAME: "queen-x-pro-2",
+  REPO_NAME: "Queen-x-pro-2",
 };
